@@ -6,8 +6,8 @@ Number of players in this game may vary from one to four. In case of multiplayer
 
 Playstore Link: [Bowling 3D] (https://play.google.com/store/apps/details?id=com.magmamobile.game.Bowling3D&hl=en)
 
-![Playstore](/Images/tttps.png) 
-![Image](/Images/tttim.png)
+![Playstore](/Images/bowling_p.png) 
+![Image](/Images/bowling_o.png)
 
 
 
